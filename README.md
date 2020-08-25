@@ -15,4 +15,7 @@ Editer le fichier apache conf extra httpd vhosts conf qui se trouve dans votre r
     ##CustomLog "logs/dummy-host2.example.com-access.log" common
 </VirtualHost>
 
-Ajouter la ligne suivante dans le fichier hosts : 127.0.0.1   rest-api-application
+Ajouter la ligne suivante dans le fichier hosts : 
+127.0.0.1   rest-api-application
+
+Et lancer Xampp
